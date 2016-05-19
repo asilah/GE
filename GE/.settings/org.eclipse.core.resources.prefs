@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/paulhitz/nga/payslips/BulletinDePaieGenPDF.java=ISO-8859-1
+encoding//src/main/java/com/paulhitz/nga/payslips/DeclarationMensCnssGenPdf.java=ISO-8859-1
+encoding//src/main/java/model/BulletinPaieForm.java=ISO-8859-1
+encoding//src/main/webapp/WEB-INF/views/Admin.jsp=UTF-8
